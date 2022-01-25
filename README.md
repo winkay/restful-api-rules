@@ -371,11 +371,11 @@ Server: example.com
 
 1、固定位数的数字定义错误码（示例：青云）
 
-![image-20200820165610547](C:\Users\wangkaibj\AppData\Roaming\Typora\typora-user-images\image-20200820165610547.png)
+![qingcloud](./qingcloud.png)
 
 2、英文简写定义错误码（示例：腾讯云）
 
-![image-20200820165811054](C:\Users\wangkaibj\AppData\Roaming\Typora\typora-user-images\image-20200820165811054.png)
+![tencentcloud](./tencentcloud.png)
 
 3、错误消息响应格式
 
